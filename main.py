@@ -7,7 +7,8 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi,   {name}')  # Press ⌘F8 to toggle the breakpoint.
-    print("woow hello from KAG a")
+    print("Hello from the feature branch")
+    print("woow hello from KAG")
     print("Hello from the feature branch")
 
 # Press the green button in the gutter to run the script.
